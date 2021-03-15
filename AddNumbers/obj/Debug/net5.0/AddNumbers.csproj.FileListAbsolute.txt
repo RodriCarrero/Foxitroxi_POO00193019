@@ -14,3 +14,19 @@
 /mnt/c/Users/Rodrigo Carrero/Desktop/Tareas POO/AddNumbers/obj/Debug/net5.0/ref/AddNumbers.dll
 /mnt/c/Users/Rodrigo Carrero/Desktop/Tareas POO/AddNumbers/obj/Debug/net5.0/AddNumbers.pdb
 /mnt/c/Users/Rodrigo Carrero/Desktop/Tareas POO/AddNumbers/obj/Debug/net5.0/AddNumbers.genruntimeconfig.cache
+C:\Users\vmbn1\OneDrive\Escritorio\POO0121\repaso git\Foxitroxi_POO012021\AddNumbers\bin\Debug\net5.0\AddNumbers.exe
+C:\Users\vmbn1\OneDrive\Escritorio\POO0121\repaso git\Foxitroxi_POO012021\AddNumbers\bin\Debug\net5.0\AddNumbers.deps.json
+C:\Users\vmbn1\OneDrive\Escritorio\POO0121\repaso git\Foxitroxi_POO012021\AddNumbers\bin\Debug\net5.0\AddNumbers.runtimeconfig.json
+C:\Users\vmbn1\OneDrive\Escritorio\POO0121\repaso git\Foxitroxi_POO012021\AddNumbers\bin\Debug\net5.0\AddNumbers.runtimeconfig.dev.json
+C:\Users\vmbn1\OneDrive\Escritorio\POO0121\repaso git\Foxitroxi_POO012021\AddNumbers\bin\Debug\net5.0\AddNumbers.dll
+C:\Users\vmbn1\OneDrive\Escritorio\POO0121\repaso git\Foxitroxi_POO012021\AddNumbers\bin\Debug\net5.0\ref\AddNumbers.dll
+C:\Users\vmbn1\OneDrive\Escritorio\POO0121\repaso git\Foxitroxi_POO012021\AddNumbers\bin\Debug\net5.0\AddNumbers.pdb
+C:\Users\vmbn1\OneDrive\Escritorio\POO0121\repaso git\Foxitroxi_POO012021\AddNumbers\obj\Debug\net5.0\AddNumbers.csprojAssemblyReference.cache
+C:\Users\vmbn1\OneDrive\Escritorio\POO0121\repaso git\Foxitroxi_POO012021\AddNumbers\obj\Debug\net5.0\AddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmbn1\OneDrive\Escritorio\POO0121\repaso git\Foxitroxi_POO012021\AddNumbers\obj\Debug\net5.0\AddNumbers.AssemblyInfoInputs.cache
+C:\Users\vmbn1\OneDrive\Escritorio\POO0121\repaso git\Foxitroxi_POO012021\AddNumbers\obj\Debug\net5.0\AddNumbers.AssemblyInfo.cs
+C:\Users\vmbn1\OneDrive\Escritorio\POO0121\repaso git\Foxitroxi_POO012021\AddNumbers\obj\Debug\net5.0\AddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\vmbn1\OneDrive\Escritorio\POO0121\repaso git\Foxitroxi_POO012021\AddNumbers\obj\Debug\net5.0\AddNumbers.dll
+C:\Users\vmbn1\OneDrive\Escritorio\POO0121\repaso git\Foxitroxi_POO012021\AddNumbers\obj\Debug\net5.0\ref\AddNumbers.dll
+C:\Users\vmbn1\OneDrive\Escritorio\POO0121\repaso git\Foxitroxi_POO012021\AddNumbers\obj\Debug\net5.0\AddNumbers.pdb
+C:\Users\vmbn1\OneDrive\Escritorio\POO0121\repaso git\Foxitroxi_POO012021\AddNumbers\obj\Debug\net5.0\AddNumbers.genruntimeconfig.cache
