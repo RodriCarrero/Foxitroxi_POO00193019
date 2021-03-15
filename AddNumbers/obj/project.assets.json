@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/carrero/.nuget/packages/": {}
+    "C:\\Users\\vmbn1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/Rodrigo Carrero/Desktop/Tareas POO/AddNumbers/AddNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\vmbn1\\OneDrive\\Escritorio\\POO0121\\repaso git\\Foxitroxi_POO012021\\AddNumbers\\AddNumbers.csproj",
       "projectName": "AddNumbers",
-      "projectPath": "/mnt/c/Users/Rodrigo Carrero/Desktop/Tareas POO/AddNumbers/AddNumbers.csproj",
-      "packagesPath": "/home/carrero/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/Rodrigo Carrero/Desktop/Tareas POO/AddNumbers/obj/",
+      "projectPath": "C:\\Users\\vmbn1\\OneDrive\\Escritorio\\POO0121\\repaso git\\Foxitroxi_POO012021\\AddNumbers\\AddNumbers.csproj",
+      "packagesPath": "C:\\Users\\vmbn1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vmbn1\\OneDrive\\Escritorio\\POO0121\\repaso git\\Foxitroxi_POO012021\\AddNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/carrero/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\vmbn1\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -8,18 +8,18 @@ namespace AddNumbers
         {
             int a = 0, b = 0;
 
-            Console.WriteLine("Enter a value for a: ");
+            Console.WriteLine("Enter a value for a: "); 
             a = Int32.Parse(Console.ReadLine());
 
             Console.WriteLine("Enter a value for b: ");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"minuend {a} - {b} subtracting {SubNumbers(a, b)} ");
+            Console.WriteLine($"multiplying {a} * {b} subtracting {MultNumbers(a, b)} ");
         }
 
-        public static int SubNumbers(int a, int b)
+        public static int MultNumbers(int a, int b)
         {
-            return a - b;
+            return a * b;
         }
     }
 }
